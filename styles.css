@@ -1,0 +1,49 @@
+body{
+    background-color: #e3e3e3;
+    } 
+
+header{
+    background: white;
+    text-align: center;
+    padding: 1%;
+    margin: -10px;
+}
+h1{
+    font-size: 25px;
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+}
+.principal{
+    background: #e3e3e3;
+}
+.publicacion{
+    background-color: white;
+    margin-top: 40px;
+
+  
+}
+.titulo{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    
+}
+.titulo h2,
+.titulo h3{
+    padding: 10px 10px;
+    margin: 0px;
+}
+h3 {
+    color: rgb(224, 224, 224);
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+.descripcion{
+    background: white;
+    padding: 5px;
+}
